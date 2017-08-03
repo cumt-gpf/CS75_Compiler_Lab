@@ -1,0 +1,14 @@
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#01 I: Start test suite:0:forty_one_anf.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#01 I: Test suite:0:forty_one_anf is successful.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#01 I: End test suite:0:forty_one_anf.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#01 I: Start test suite:2:prim1_anf1.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#01 E: Test suite:2:prim1_anf1 has failed.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#01 E: expected: (let temp_unary_2 = sub1(5) in (let temp_unary_1 = sub1(temp_unary_2) in temp_unary_1))
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#01 E: but got: (let temp_unary_1 = sub1(55) in temp_unary_1) in test suite:2:prim1_anf1.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#01 E: Raised at file "src/oUnitAssert.ml", line 45, characters 2-27
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#01 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#01 E: 
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#01 I: End test suite:2:prim1_anf1.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#01 I: Start test suite:4:forty_one_run_anf.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#01 I: Test suite:4:forty_one_run_anf is successful.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#01 I: End test suite:4:forty_one_run_anf.

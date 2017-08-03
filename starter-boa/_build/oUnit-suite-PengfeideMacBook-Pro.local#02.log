@@ -1,0 +1,14 @@
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#02 I: Start test suite:1:prim1_anf.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#02 I: Test suite:1:prim1_anf is successful.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#02 I: End test suite:1:prim1_anf.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#02 I: Start test suite:3:prim1_anf2.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#02 E: Test suite:3:prim1_anf2 exited with an error.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#02 E: Failure("You need to do this one (prim2)") in test suite:3:prim1_anf2.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#02 E: Raised at file "pervasives.ml", line 32, characters 17-33
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#02 E: Called from file "test.ml", line 16, characters 15-28
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#02 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#02 E: 
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#02 I: End test suite:3:prim1_anf2.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#02 I: Start test suite:5:forty_one.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#02 I: Test suite:5:forty_one is successful.
+2017-08-03T03:29:03+00:00 PengfeideMacBook-Pro.local#02 I: End test suite:5:forty_one.

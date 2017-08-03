@@ -7,6 +7,10 @@ CS75_Lab
 
 这个仓库存放了我的Lab的代码。
 
+starter-adder
+-------------
+这个lab是实现从AST翻译到汇编指令这个编译过程。
+
 
 
 [1]: https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/
